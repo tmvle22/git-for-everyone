@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Title: two is two
-=======
-Title: two
->>>>>>> 6bb43c675b5b1ea1bc82c0fb6b53d743d1dc50a9
